@@ -1,4 +1,10 @@
-# 🚧 README em construção 🚧
+# 🚧 Readme em construção 🚧
+
+## 23 – Projeto All For One
+
+## Contexto
+
+Projeto pessoal desenvolvido na Trybe, onde tive que utilizar queries SQL para manipular e acessar dados de um banco de dados que já estava previamente implementado
 
 <!-- Olá, Tryber!
 
